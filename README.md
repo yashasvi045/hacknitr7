@@ -1,15 +1,12 @@
-# 🌍 Wandr - Collect World Landmarks as NFTs
+# 🌍 Wandr - Collect World Landmarks as NFTs using SHARDEUM
 
 <div align="center">
 
 ![Wandr Logo](https://img.shields.io/badge/Wandr-NFT%20Tourism-purple?style=for-the-badge&logo=ethereum)
 ![Next.js](https://img.shields.io/badge/Next.js-16.1-black?style=for-the-badge&logo=next.js)
-![Polygon](https://img.shields.io/badge/Polygon-Amoy-8247E5?style=for-the-badge&logo=polygon)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)
 
 **A Web3-powered digital collectibles platform for iconic world landmarks**
-
-[Live Demo](#) • [Documentation](#) • [Contributing](#contributing)
 
 </div>
 
@@ -435,62 +432,7 @@ const config = getDefaultConfig({
 - npm, yarn, or pnpm
 - A Web3 wallet (MetaMask recommended)
 
-### Installation
 
-```bash
-# Clone the repository
-git clone https://github.com/yashasvi045/hackxios-25.git
-
-# Navigate to project directory
-cd hackxios-25
-
-# Install dependencies
-npm install
-
-# Create environment file
-cp .env.example .env.local
-
-# Start development server
-npm run dev
-```
-
-### Available Scripts
-
-| Command | Description |
-|---------|-------------|
-| `npm run dev` | Start development server on port 3000 |
-| `npm run build` | Create production build |
-| `npm run start` | Start production server |
-| `npm run lint` | Run ESLint checks |
-
----
-
-## 🌐 Deployment
-
-### Vercel (Recommended)
-
-1. Push code to GitHub
-2. Import project in Vercel
-3. Add environment variables
-4. Deploy
-
-### Environment Variables for Production
-
-| Variable | Required | Description |
-|----------|----------|-------------|
-| `NEXT_PUBLIC_WALLETCONNECT_PROJECT_ID` | Yes | WalletConnect Cloud Project ID |
-
----
-
-## 🔐 Environment Variables
-
-```env
-# WalletConnect Configuration
-# Get from: https://cloud.walletconnect.com/
-NEXT_PUBLIC_WALLETCONNECT_PROJECT_ID=your_project_id_here
-```
-
----
 
 ## 🔮 Future Enhancements
 
@@ -513,24 +455,6 @@ NEXT_PUBLIC_WALLETCONNECT_PROJECT_ID=your_project_id_here
 - [ ] Premium landmark packs
 - [ ] Partner with tourism boards
 - [ ] NFT royalties on secondary sales
-
----
-
-## 👥 Contributing
-
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit changes (`git commit -m 'Add amazing feature'`)
-4. Push to branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
