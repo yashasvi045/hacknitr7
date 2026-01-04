@@ -44,7 +44,6 @@ Transform the way people experience and remember landmarks by creating a digital
 - **Gamified Exploration**: Discover landmarks through an interactive global map
 - **Digital Ownership**: Claim landmarks as NFTs stored on blockchain
 - **Personal Collection**: Build and showcase your digital travel passport
-- **Zero Gas Fees**: Leveraging Polygon's low-cost infrastructure
 
 ---
 
